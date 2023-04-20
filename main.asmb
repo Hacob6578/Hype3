@@ -1,0 +1,6 @@
+ __assembly__ {
+        mov    eax, a
+        mov    ebx, b
+        add    eax, ebx
+        mov    c, eax
+    }
